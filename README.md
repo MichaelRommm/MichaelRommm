@@ -12,7 +12,3 @@ SQL, Python, R, Excel, Power BI, Tableau
 ### Contacts
 - LinkedIn: [Michael Romm](https://www.linkedin.com/in/michael-romm/)
 - Email: [mih.kuf@gmail.com](mailto:mih.kuf@gmail.com)
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelRommm&layout=compact) 
