@@ -3,7 +3,7 @@ Hi, I'm Michael! A Data Analyst with a keen eye for detail and strong analytical
 As a former Co-Founder & CEO of [Finger Food](https://finger-food.co.il), I’ve leveraged data to drive strategic growth initiatives. This portfolio highlights my journey in data analytics through projects that showcase my skills in data analysis, visualization, and business intelligence.
 
 ### Skills:
-SQL, Python, R, Excel, Power BI, Tableau 
+SQL | Python | R | Excel | Power BI | Tableau 
 
 ### Education and Certificates
 - [Google Data Analytics Professional Certificate (Coursera - Google)](https://coursera.org/share/c8f4a7b6bd4f79b24ffd2a20ae0e15fc)
