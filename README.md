@@ -15,7 +15,6 @@ As a former Co-Founder & CEO of [Finger Food](https://finger-food.co.il), I’ve
 - [Data Analyst Expert Certificate (John Bryce College, Tel-Aviv)](https://drive.google.com/file/d/1hY15CFHy0sJKdZvOX17o66iTzqMCJ4V6/view?usp=share_link)
 
 ### Contacts:
-- Email: [mih.kuf@gmail.com](mailto:mih.kuf@gmail.com)
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MichaelRommm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/michael-romm/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/romm.michael.1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/michael_romm/)  
+Email: [mih.kuf@gmail.com](mailto:mih.kuf@gmail.com)
 
