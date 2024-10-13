@@ -12,7 +12,7 @@ As a former Co-Founder & CEO of [Finger Food](https://finger-food.co.il), I’ve
 
 ### Education and Certificates:
 - [Google Data Analytics Professional Certificate (Coursera - Google)](https://coursera.org/share/c8f4a7b6bd4f79b24ffd2a20ae0e15fc)
-- [Data Analyst Expert Certificate (John Bryce College, Tel-Aviv)](https://drive.google.com/file/d/1hY15CFHy0sJKdZvOX17o66iTzqMCJ4V6/view?usp=share_link)
+- [Data Analyst Expert Certificate (John Bryce College, Tel-Aviv)](https://drive.google.com/file/d/1m9RrxmZIZCpNQmKJLV2_WijgYgKDMdwT/view?usp=sharing)
 
 ### Contacts:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MichaelRommm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/michael-romm/)  
